@@ -6,6 +6,7 @@
   * a,b ∈ R
   * Representacion del Algoritmo
      * Representacion visual
+      ![diagrama_1](https://user-images.githubusercontent.com/33208219/57053231-1fa54e00-6c63-11e9-9d88-56e36bb0748a.jpg)
     * Algoritmo
        1. Solicitar numero y guardarlo
        2. Solicitar otro numero y guardarlo

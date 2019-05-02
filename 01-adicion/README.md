@@ -6,7 +6,7 @@
   * a,b ∈ R
   * Representacion del Algoritmo
      * Representacion visual
-    * ## Algoritmo
-   1. Solicitar numero y guardarlo
-   2. Solicitar otro numero y guardarlo
-   3. Mostrar a+b
+    * Algoritmo
+       1. Solicitar numero y guardarlo
+       2. Solicitar otro numero y guardarlo
+       3. Mostrar a+b

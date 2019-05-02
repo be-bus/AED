@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * Etapa #1 Analicis del problema
  * Mostrar la suma de dos numeros que ingrese el usuario
  * Ingresar dos numeros y sumarlos
@@ -10,3 +11,6 @@
    1. Solicitar numero y guardarlo
    2. Solicitar otro numero y guardarlo
    3. Mostrar a+b
+=======
+
+>>>>>>> d3ac054edfab079375356c7dba970f06bbb15104
